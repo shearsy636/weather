@@ -4,3 +4,5 @@ addF.onclick = function() {
   let tempResult = parseInt(document.getElementById.("fieldname").value) + 32;
   result.innerHTML = tempResult;
 };
+
+//if temp is above 75
